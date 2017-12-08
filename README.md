@@ -1,4 +1,4 @@
-# teamgrid:limit-update-operators [![Build Status](https://travis-ci.org/teamgrid/meteor-limitupdateoperators.svg)](https://travis-ci.org/teamgrid/meteor-limitupdateoperators)
+# teamgrid:limit-update-operators [![Build Status](https://travis-ci.org/TeamGrid/meteor-limitupdateoperators.svg?branch=master)](https://travis-ci.org/teamgrid/meteor-limitupdateoperators)
 Easy limiting of mongo update operators (deny rule)
 
 ## What it does
